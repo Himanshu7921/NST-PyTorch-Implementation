@@ -294,8 +294,9 @@ Standard NST transfers both texture and color from the style image. The color-pr
 |                     Standard NST                    |                      Color-Preserving NST                     |
 | :-------------------------------------------------: | :-----------------------------------------------------------: |
 | <img src="assets/output/output_07.png" width="300"> | <img src="assets/output/color_preserving_01.png" width="300"> |
-| <img src="assets/output/homosapien.png" width="300"> | <img src="assets/output/color_preserving_02.jpg" width="300"> |
+| <img src="assets/output/homosapien.png" width="300"> | <img src="assets/output/color_preserving_02.png" width="300"> |
 | <img src="assets/output/dead_poets_society_01.png" width="300"> | <img src="assets/output/color_preserving_03.png" width="300"> |
+| <img src="assets/output/dead_poets_society_03.png" width="300"> | <img src="assets/output/color_preserving_04.png" width="300"> |
 
 
 ---
