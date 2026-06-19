@@ -12,6 +12,11 @@ A clean, research-faithful PyTorch implementation of **Neural Style Transfer** b
   <em>Neural Style Transfer with VGG19 — transforming cinematic scenes into painterly artworks through feature reconstruction and style optimization.</em>
 </p>
 
+<p align="center">
+  <a href="https://medium.com/@himanshusr451tehs/implementing-neural-style-transfer-from-scratch-the-project-that-started-it-all-5e80eb774de2">Read the Blog</a> •
+  <a href="https://arxiv.org/abs/1508.06576">Original Paper</a>
+</p>
+
 ---
 
 
@@ -51,6 +56,20 @@ This implementation strictly follows the Gatys et al. formulation, including:
 
 ## How It Works
 <img src="assets/architecture_diagram.png" width="700">
+
+---
+
+### Reproduction of Figure 3 from the Original NST Paper
+
+To validate the correctness of the implementation, I reproduced the famous Figure 3 experiment from Gatys et al. (2016), where the same content image is stylized using multiple artworks. The generated outputs closely match the qualitative behavior reported in the original paper.
+
+<p align="center">
+  <img src="assets/results/reproduced_img.png" width="900">
+</p>
+
+<p align="center">
+  <em>Figure 3 reproduced from the original Neural Style Transfer paper using this implementation. The content image is combined with multiple artistic styles, demonstrating successful separation of content and style representations.</em>
+</p>
 
 ---
 
